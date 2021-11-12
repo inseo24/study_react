@@ -2,3 +2,7 @@ node_modules
 dist/*
 *.log
 cra-test
+
+/node.modules
+/.pnp
+.pnp.js
